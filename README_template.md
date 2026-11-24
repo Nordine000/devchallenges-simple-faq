@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://nordine000.github.io/devchallenges-simple-faq/">
       Demo
     </a>
     <span> | </span>
